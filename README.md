@@ -1,6 +1,6 @@
 # Air Toxicity Prediction
 
-This project aims to predict air toxicity levels in Mumbai, India, focusing on pollutant concentrations at three locations: Chakala, Kurla, and the Airport. The goal is to find the best algorithm for pollutant data using machine learning models like Linear Regression, Random Forest, Decision Tree, LSTM, and XGBoost. Predictions from each model are compared using RMSE.
+This is my Third Year project which aims to predict air toxicity levels in Mumbai, India, focusing on pollutant concentrations at three locations: Chakala, Kurla, and the Airport. The goal is to find the best algorithm for pollutant data using machine learning models like Linear Regression, Random Forest, Decision Tree, LSTM, and XGBoost. Predictions from each model are compared using RMSE.
 
 ## Project Structure
 
