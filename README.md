@@ -31,6 +31,7 @@ The `notebook` folder contains Python notebooks organized into four subfolders: 
 ## Additional Data Sources
 
 - [Central Control Room for Air Quality Management](https://airquality.cpcb.gov.in/).
+- [National Air Quality Index](https://airquality.cpcb.gov.in/AQI_India/)
 
 ## Getting Started
 
