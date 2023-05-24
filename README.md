@@ -37,7 +37,7 @@ The `notebook` folder contains Python notebooks organized into four subfolders: 
 
 1. Clone the repository to your local machine.
 2. Install the required Python packages.
-3. Run the notebooks in the following order: EDA, Prediction, and Forecast.
+3. Run the notebooks in the following order: Preprocessing, EDA, Prediction, and Forecast.
 
 <!-- ## Contributing
 
